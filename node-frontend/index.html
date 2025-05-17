@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ConnectCare Match UI</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="form-container">
+    <h2>Check Caregiver Match</h2>
+    <form id="matchForm">
+      <div class="form-group">
+        <label>Elderly Age:</label>
+        <input type="number" name="Elderly_Age" required>
+      </div>
+
+      <div class="form-group">
+        <label>Caregiver Age:</label>
+        <input type="number" name="Caregiver_Age" required>
+      </div>
+
+      <div class="form-group">
+        <label>Elderly Location:</label>
+        <select name="Elderly_Location" required>
+          <option value="Nairobi">Nairobi</option>
+          <option value="Mombasa">Mombasa</option>
+          <option value="Kisumu">Kisumu</option>
+          <option value="Nakuru">Nakuru</option>
+          <option value="Eldoret">Eldoret</option>
+          <option value="Thika">Thika</option>
+          <option value="Machakos">Machakos</option>
+          <option value="Kiambu">Kiambu</option>
+          <option value="Meru">Meru</option>
+          <option value="Nyeri">Nyeri</option>
+          <option value="Kitale">Kitale</option>
+          <option value="Kakamega">Kakamega</option>
+          <option value="Bungoma">Bungoma</option>
+          <option value="Garissa">Garissa</option>
+          <option value="Lamu">Lamu</option>
+          <option value="Isiolo">Isiolo</option>
+          <option value="Murang'a">Murang'a</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>Caregiver Location:</label>
+        <select name="Caregiver_Location" required>
+          <!-- Same options as Elderly_Location -->
+          <option value="Nairobi">Nairobi</option>
+          <option value="Mombasa">Mombasa</option>
+          <option value="Kisumu">Kisumu</option>
+          <option value="Nakuru">Nakuru</option>
+          <option value="Eldoret">Eldoret</option>
+          <option value="Thika">Thika</option>
+          <option value="Machakos">Machakos</option>
+          <option value="Kiambu">Kiambu</option>
+          <option value="Meru">Meru</option>
+          <option value="Nyeri">Nyeri</option>
+          <option value="Kitale">Kitale</option>
+          <option value="Kakamega">Kakamega</option>
+          <option value="Bungoma">Bungoma</option>
+          <option value="Garissa">Garissa</option>
+          <option value="Lamu">Lamu</option>
+          <option value="Isiolo">Isiolo</option>
+          <option value="Murang'a">Murang'a</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>Elderly Gender:</label>
+        <select name="Elderly_Gender" required>
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>Caregiver Gender:</label>
+        <select name="Caregiver_Gender" required>
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>Health Condition:</label>
+        <select name="Health_Condition" required>
+          <option value="None">None</option>
+          <option value="Diabetes">Diabetes</option>
+          <option value="Hypertension">Hypertension</option>
+          <option value="Heart Disease">Heart Disease</option>
+          <option value="Arthritis">Arthritis</option>
+          <option value="Alzheimer">Alzheimer</option>
+          <option value="Parkinson's">Parkinson's</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>Caregiver Experience (years):</label>
+        <input type="number" name="Caregiver_Experience" required>
+      </div>
+
+      <div class="form-group">
+        <label>Care Needs Level:</label>
+        <select name="Care_Needs_Level" required>
+          <option value="Low">Low</option>
+          <option value="Medium">Medium</option>
+          <option value="High">High</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>Languages Spoken:</label>
+        <select name="Languages_Spoken" required>
+          <option value="English">English</option>
+          <option value="English;Swahili">English;Swahili</option>
+          <option value="English;Kikuyu">English;Kikuyu</option>
+          <option value="English;Luhya">English;Luhya</option>
+        </select>
+      </div>
+
+      <button type="submit">Check Match</button>
+    </form>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

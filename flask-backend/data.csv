@@ -1,0 +1,101 @@
+Match_ID,Elderly_ID,Caregiver_ID,Elderly_Age,Elderly_Gender,Health_Condition,Care_Needs_Level,Elderly_Location,Caregiver_Location,Caregiver_Age,Caregiver_Gender,Caregiver_Experience,Languages_Spoken,Match_Success
+1,E001,C005,78,Female,Diabetes,High,Nairobi,Nairobi,45,Female,10,English;Swahili,1
+2,E002,C002,82,Male,Hypertension,Medium,Mombasa,Mombasa,38,Male,5,English,0
+3,E003,C001,65,Female,None,Low,Kisumu,Kisumu,30,Female,2,English,1
+4,E004,C004,90,Female,Alzheimer,High,Nakuru,Nakuru,50,Female,20,English;Swahili,1
+5,E005,C003,74,Male,Heart Disease,High,Eldoret,Eldoret,42,Male,8,English;Kikuyu,0
+6,E006,C007,68,Female,Diabetes,Medium,Thika,Thika,36,Female,4,English,1
+7,E007,C006,85,Male,Hypertension,High,Machakos,Machakos,55,Male,15,English;Luhya,1
+8,E008,C008,80,Female,Arthritis,Medium,Kiambu,Kiambu,40,Female,7,English,0
+9,E009,C009,77,Male,Parkinson's,High,Meru,Meru,60,Male,25,English;Swahili,1
+10,E010,C010,69,Female,None,Low,Nyeri,Nyeri,28,Female,3,English,1
+11,E011,C011,72,Male,Diabetes,Medium,Kitale,Kitale,33,Male,6,English,0
+12,E012,C012,88,Female,Alzheimer,High,Kakamega,Kakamega,48,Female,12,English;Swahili,1
+13,E013,C013,79,Male,Hypertension,Medium,Bungoma,Bungoma,44,Male,9,English,0
+14,E014,C014,83,Female,Arthritis,Low,Garissa,Garissa,37,Female,4,English,1
+15,E015,C015,67,Male,None,Low,Lamu,Lamu,29,Male,2,English,1
+16,E016,C016,76,Female,Heart Disease,High,Isiolo,Isiolo,52,Female,18,English;Swahili,1
+17,E017,C017,81,Male,Diabetes,Medium,Murang'a,Murang'a,41,Male,7,English,0
+18,E018,C018,75,Female,Alzheimer,High,Nairobi,Nairobi,46,Female,11,English;Swahili,1
+19,E019,C019,70,Male,Hypertension,Medium,Mombasa,Mombasa,39,Male,5,English,0
+20,E020,C020,84,Female,Arthritis,High,Kisumu,Kisumu,58,Female,22,English;Swahili,1
+21,E021,C021,76,Female,Diabetes,Medium,Nakuru,Nakuru,35,Female,5,English,0
+22,E022,C022,79,Male,Heart Disease,High,Eldoret,Eldoret,47,Male,12,English;Kikuyu,1
+23,E023,C023,68,Female,None,Low,Thika,Thika,31,Female,3,English,1
+24,E024,C024,90,Male,Alzheimer,High,Machakos,Machakos,54,Male,20,English;Swahili,1
+25,E025,C025,73,Female,Hypertension,Medium,Kiambu,Kiambu,42,Female,8,English,0
+26,E026,C026,77,Male,Diabetes,High,Meru,Meru,50,Male,15,English;Swahili,1
+27,E027,C027,69,Female,Heart Disease,Medium,Nyeri,Nyeri,33,Female,6,English,1
+28,E028,C028,80,Male,Arthritis,High,Kitale,Kitale,55,Male,20,English;Kikuyu,0
+29,E029,C029,65,Female,None,Low,Kakamega,Kakamega,29,Female,2,English,1
+30,E030,C030,82,Male,Diabetes,Medium,Bungoma,Bungoma,38,Male,7,English,0
+31,E031,C031,78,Male,Hypertension,Medium,  Nairobi ,Nairobi,41,Male,,English,1
+32,E032,C032,85,Female,Diabtes,High,Mombasa,Mombasa,50,Female,15,English;Swahili,1
+33,E033,C033,75,Male,Arthritis,Low,,Nakuru,35,Female,5,English,0
+34,E034,C034,80,Female,Alzheimer,High,Nakuru,Nairobi,48,Female,12,English-Swahili,1
+35,E035,C035,82,Male,Hypertension,Medium,Eldoret,Thika,39,Male,8,English;Kikuyu,0
+36,E036,C036,77,Female,Heart Disease,High,Thika,Eldoret,45,Female,10,English;Swahili,1
+37,E037,C037,79,Male,Diabetes,Medium,Machakos,Machakos,37,Male,7,English,0
+38,E038,C038,81,Female,Artrhitis,Low,Kiambu,Kiambu,42,Female,4,English,1
+39,E039,C039,70,Male,Hypertension,Medium,Meru,Meru,39,Male,5,English,0
+40,E040,C040,88,Female,Alzheimer,High,Nyeri,Nyeri,52,Female,12,English;Swahili,1
+41,E041,C041,74,Female,Diabetes,Medium,Kitale,Kitale,40,Male,ten,English,0
+42,E042,C042,85,Male,Heart Disease,High,Kakamega,Kakamega,55,male,20,English;Kikuyu,1
+43,E043,C043,76,Female,Diabetes,Medium,Bungoma,Bungoma,45,Female,8,English-Swahili;Swahili,1
+44,E044,C044,79,Male,Hypertension,Medium,  Garissa  ,Garissa,40,Male,6,English,0
+45,E045,C045,83,Female,Alzheimer,High,Lamu,Lamu,50,Female,15,English;Kikuyu,1
+46,E046,C046,77,Male,None,Low,Isiolo,Isiolo,33,Female,5,English;Swahili,0
+47,E047,C047,82,Female,Heart Disease,High,Murang'a,Murang'a,48,Female,,English,1
+48,E048,C048,75,Male,Arzheimer,High,Nairobi,Nairobi,37,Male,10,English;Kikuyu,0
+49,E049,C049,68,Female,Diabetes,Medium,Mombasa,Mombasa,29,Female,4,English;Swahili,1
+50,E050,C050,80,Male,Hypertension,Medium,Kisumu,Kisumu,42,Male,7,English/Swahili,0
+51,E051,C051,79,Female,Diabetes,High,Nakuru,Nakuru,47,Female,9,English;Swahili,1
+52,E052,C052,83,Male,Hypertension,Medium,Eldoret,Eldoret,40,Male,7,English,0
+53,E053,C053,68,Female,None,Low,Thika,Thika,32,Female,3,English,1
+54,E054,C054,87,Female,Alzheimer,High,Machakos,Machakos,55,Female,18,English;Swahili,1
+55,E055,C055,75,Male,Heart Disease,High,Kiambu,Kiambu,43,Male,10,English;Kikuyu,0
+56,E056,C056,70,Female,Diabtes,Medium,Meru,Meru,38,Female,6,English,1
+57,E057,C057,84,Male,Hypertension,High,Nyeri,Nyeri,52,Male,14,English;Swahili,1
+58,E058,C058,77,Female,Artrhitis,Medium,Kitale,Kitale,41,Female,5,English,0
+59,E059,C059,80,Male,Parkinson's,High,Kakamega,Kakamega,60,Male,22,English;Swahili,1
+60,E060,C060,68,Female,None,Low,Bungoma,Bungoma,30,Female,3,English,1
+61,E061,C061,72,Male,Diabetes,Medium,Garissa,Garissa,34,Male,6,English,0
+62,E062,C062,86,Female,Alzheimer,High,Lamu,Lamu,50,Female,13,English;Swahili,1
+63,E063,C063,80,Male,Hypertension,Medium,Isiolo,Isiolo,42,Male,8,English,0
+64,E064,C064,82,Female,Arthritis,Low,Murang'a,Murang'a,36,Female,4,English,1
+65,E065,C065,69,Male,None,Low,Nairobi,Nairobi,31,Male,2,English,1
+66,E066,C066,77,Female,Heart Disease,High,Mombasa,Mombasa,53,Female,16,English;Swahili,1
+67,E067,C067,80,Male,Diabetes,Medium,Kisumu,Kisumu,42,Male,7,English,0
+68,E068,C068,76,Female,Alzheimer,High,Nakuru,Nakuru,48,Female,12,English;Swahili,1
+69,E069,C069,71,Male,Hypertension,Medium,Eldoret,Eldoret,39,Male,5,English,0
+70,E070,C070,85,Female,Arthritis,High,Thika,Thika,57,Female,21,English;Swahili,1
+71,E071,C071,78,Female,Diabetes,Medium,Machakos,Machakos,36,Female,5,English,0
+72,E072,C072,81,Male,Heart Disease,High,Kiambu,Kiambu,47,Male,11,English;Kikuyu,1
+73,E073,C073,74,Female,None,Low,Meru,Meru,33,Female,4,English,1
+74,E074,C074,88,Male,Alzheimer,High,Nyeri,Nyeri,54,Male,19,English;Swahili,1
+75,E075,C075,79,Female,Hypertension,Medium,Kitale,Kitale,42,Female,8,English,0
+76,E076,C076,83,Male,Diabetes,High,Kakamega,Kakamega,50,Male,14,English;Kikuyu,1
+77,E077,C077,70,Female,Heart Disease,Medium,Bungoma,Bungoma,34,Female,6,English,1
+78,E078,C078,81,Male,Arthritis,High,Garissa,Garissa,55,Male,18,English;Swahili,0
+79,E079,C079,67,Female,None,Low,Lamu,Lamu,29,Female,2,English,1
+80,E080,C080,82,Male,Diabetes,Medium,Isiolo,Isiolo,38,Male,7,English,0
+81,E081,C081,77,Male,Hypertension,Medium,Murang'a,Murang'a,41,Male,7,English,1
+82,E082,C082,84,Female,Diabtes,High,Nairobi,Nairobi,50,Female,15,English;Swahili,1
+83,E083,C083,75,Male,Arthritis,Low,,Mombasa,35,Female,5,English,0
+84,E084,C084,80,Female,Alzheimer,High,Mombasa,Mombasa,48,Female,12,English-Swahili,1
+85,E085,C085,82,Male,Hypertension,Medium,Kisumu,Kisumu,39,Male,8,English;Kikuyu,0
+86,E086,C086,78,Female,Heart Disease,High,Nakuru,Nakuru,45,Female,10,English;Swahili,1
+87,E087,C087,80,Male,Diabetes,Medium,Eldoret,Eldoret,37,Male,7,English,0
+88,E088,C088,81,Female,Artrhitis,Low,Thika,Thika,42,Female,4,English,1
+89,E089,C089,70,Male,Hypertension,Medium,Machakos,Machakos,39,Male,5,English,0
+90,E090,C090,88,Female,Alzheimer,High,Kiambu,Kiambu,52,Female,12,English;Swahili,1
+91,E091,C091,74,Female,Diabetes,Medium,Meru,Meru,40,Male,ten,English,0
+92,E092,C092,85,Male,Heart Disease,High,Nyeri,Nyeri,55,male,20,English;Kikuyu,1
+93,E093,C093,76,Female,Diabetes,Medium,Kitale,Kitale,45,Female,8,English-Swahili;Swahili,1
+94,E094,C094,79,Male,Hypertension,Medium,  Garissa  ,Garissa,40,Male,6,English,0
+95,E095,C095,83,Female,Alzheimer,High,Lamu,Lamu,50,Female,15,English;Kikuyu,1
+96,E096,C096,77,Male,None,Low,Isiolo,Isiolo,33,Female,5,English;Swahili,0
+97,E097,C097,82,Female,Heart Disease,High,Murang'a,Murang'a,48,Female,,English,1
+98,E098,C098,75,Male,Arzheimer,High,Nairobi,Nairobi,37,Male,10,English;Kikuyu,0
+99,E099,C099,68,Female,Diabetes,Medium,Mombasa,Mombasa,29,Female,4,English;Swahili,1
+100,E100,C100,80,Male,Hypertension,Medium,Kisumu,Kisumu,42,Male,7,English/Swahili,0
